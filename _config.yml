@@ -1,58 +1,42 @@
-layout: sidebar
-style: dark
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Xunjie XU
+#email: my_first_name.last_name@gmail.com
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Xun-Jie XU
+#at the Max-Planck-Institut für Kernphysik, Heidelberg, Germany.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: http://example.com
+#twitter_username: jekyllrb
+github_username:  xunjiexu
 
-permalink: /:year/:month/:day/:title/
+# Build settings
+markdown: kramdown
+theme: minima
+#plugins:
+#  - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
-
-#projects:
-#  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-#  limit: 9
-#  exclude:
-#    archived: false
-#    forks: true
-#    projects:
-    # - repo-name
-
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
-
-topics:
-  - name: Age_of_Empires
-    web_url: https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal
-    image_url: https://vignette.wikia.nocookie.net/ageofempires/images/5/5c/AgeofEmpireII.jpg/revision/latest?cb=20130425175047
-
-#  - name: Web design
-
-#  - name: Sass
-#    web_url: https://github.com/topics/sass
-#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
