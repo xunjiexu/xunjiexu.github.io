@@ -17,6 +17,6 @@ permalink: /about/
 
 ## Deprecated:
 
- - Wechat (If you don't have access to Telegram or Google, then you may alternatively use QQ)
+ - Wechat (available upon request. I usually do not check it regularly.)
 
 
