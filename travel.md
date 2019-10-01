@@ -3,10 +3,6 @@ layout: page
 title: Talks&Events
 permalink: /travel/
 ---
-### Upcoming
-#Invited to attend [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/) at KIAS, Korea. 
-#Date:  23 Sep 2019 -- 27 Sep 2019
-
 
 
 ## Conferences
