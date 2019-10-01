@@ -3,30 +3,16 @@ layout: page
 title: Talks&Events
 permalink: /travel/
 ---
-## Upcoming
-Invited to attend [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/) at KIAS, Korea. 
-Date:  23 Sep 2019 -- 27 Sep 2019
+### Upcoming
+#Invited to attend [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/) at KIAS, Korea. 
+#Date:  23 Sep 2019 -- 27 Sep 2019
 
-## Seminars
 
- - 2019
-	- UC Irvine, California USA
-	- UC Riverside, California USA
- - 2018 
-	- Virginia Tech, Blacksburg, USA
-	- Ohio State University, Columbus, USA
-	- University of Maryland, College Park, USA
-	- Institute of High Energy Physics, Beijing, China
-	- Tsinghua University, Beijing, China
-	- INFN, Bari, Italy
- - 2017 
-	- Heidelberg University, Heidelberg, Germany
- - 2015 
-	- Max-Planck-Institut für Kernphysik, Heidelberg, Germany
 
 ## Conferences
 
  - 2019
+ 	- [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/), talk: The MSW potentials induced by ultralight mediators, KIAS, Korea. 
 	- SNEWS2.0, talk: Neutrino astronomy with supernova neutrinos, Sudbury,
 Canada
 	- NTN workshop on NSI, talk: new physics in coherent neutrino scattering, St.
@@ -49,6 +35,23 @@ Interactions, Münster, Germany.
 	- WIN 2015, local attendee, Heidelberg, Germany.
 	- DPG 2015, talk: Constraining Astrophysical Neutrino Flavor Composition
 from Leptonic Unitarity, Wuppertal, Germany.
+
+## Seminars
+
+ - 2019
+	- UC Irvine, California USA
+	- UC Riverside, California USA
+ - 2018 
+	- Virginia Tech, Blacksburg, USA
+	- Ohio State University, Columbus, USA
+	- University of Maryland, College Park, USA
+	- Institute of High Energy Physics, Beijing, China
+	- Tsinghua University, Beijing, China
+	- INFN, Bari, Italy
+ - 2017 
+	- Heidelberg University, Heidelberg, Germany
+ - 2015 
+	- Max-Planck-Institut für Kernphysik, Heidelberg, Germany
 
 
 
