@@ -8,7 +8,7 @@ permalink: /travel/
 ## Conferences
 
  - 2019
- 	- [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/), talk: The MSW potentials induced by ultralight mediators, KIAS, Korea. 
+ 	- NEPLES2019, talk: The MSW potentials induced by ultralight mediators, KIAS, Korea. [Link](http://events.kias.re.kr/h/NEPLES2019/)
 	- SNEWS2.0, talk: Neutrino astronomy with supernova neutrinos, Sudbury,
 Canada
 	- NTN workshop on NSI, talk: new physics in coherent neutrino scattering, St.
