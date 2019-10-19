@@ -5,10 +5,7 @@
 layout: home
 ---
 
-<p align="center">
-
-  <img style="max-width:100px" src="https://avatars2.githubusercontent.com/u/35301871?s=400&u=28a411d045a29615789a98dcb357a1b06519b3b5&v=4" alt="Logo"/>
-</p>
+![Image description](/image/xunjie_1.jpg)
 
 Xunjie XU (许勋杰, [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1)) is currently a postdoctoral researcher working on theoretical particle physics.
 
