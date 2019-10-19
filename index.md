@@ -5,9 +5,9 @@
 layout: home
 ---
 
-![Image description](/image/xunjie_1.jpg | width=50)
+<img src="/image/xunjie_1.jpg" alt="drawing" width="200"/>
 
-Xunjie XU (许勋杰, [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1)) is currently a postdoctoral researcher working on theoretical particle physics.
+Xunjie XU (许勋杰, [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1)) is currently a postdoctoral researcher working on theoretical particle physics. 
 
 ## Research Interests
  - Neutrinos
