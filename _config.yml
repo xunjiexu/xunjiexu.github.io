@@ -19,7 +19,7 @@ title: Xunjie XU
 #   Email: my_first_name.my_last_name@gmail.com
 #x_x = X_Xu = Xun-Jie Xu
 #at the Max-Planck-Institut für Kernphysik, Heidelberg, Germany.
-baseurl: "" 
+baseurl: https://xunjiexu.github.io/ 
 # the subpath of your site, e.g. /blog
 url: https://xunjiexu.github.io/about/
 #twitter_username: jekyllrb
