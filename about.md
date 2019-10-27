@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Preferred:
 
- - Email: <img src="/image/email.png" alt="email" width="20">
+ - Email: <img src="/image/email.png" alt="email" width="200">
 
  - Instant Messaging :
 	- Telegram (username:xunjiexu)
