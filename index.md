@@ -24,6 +24,6 @@ Flavor symmetry
 
 ## Links
 
- - [Division Particle & Astroparticle Physics, MPIK](https://www.mpi-hd.mpg.de/lin/)
+ - [Division Particle & Astroparticle Physics, MPIK](https://www.mpi-hd.mpg.de/lin/group_members.en.html)
  - [MANITOP](https://www.mpi-hd.mpg.de/manitop/)
  - [scimeter.org](https://scimeter.org/clouds/author/?authors=0000-0003-3181-1386&author_disambiguate=Xun-Jie+Xu)
