@@ -7,6 +7,7 @@ permalink: /travel/
 
 ## Conferences
  - 2019
+	- [Gravity, Information and Fundamental Symmetries](https://www.mpi-hd.mpg.de/lin/events/ra-workshop/),  Garching, Germany.
 	- [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/), talk: The MSW potentials induced by ultralight mediators, KIAS, Korea. 
 	- SNEWS2.0, talk: Neutrino astronomy with supernova neutrinos, Sudbury,
 Canada
@@ -33,7 +34,7 @@ from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
  - 2020
-	- (Zoom talk) Institute of High Energy Physics, Beijing, China, [slides](/files/ultra_light_Xu.pdf)
+	- [Zoom talk](/files/ultra_light_Xu.pdf) Institute of High Energy Physics, Beijing, China, 
  - 2019
 	- UC Irvine, California USA
 	- UC Riverside, California USA
