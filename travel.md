@@ -33,7 +33,7 @@ from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
  - 2020
-	- Institute of High Energy Physics, Beijing, China, [slides](/files/ultra_light_Xu.pdf)
+	- (Zoom talk) Institute of High Energy Physics, Beijing, China, [slides](/files/ultra_light_Xu.pdf)
  - 2019
 	- UC Irvine, California USA
 	- UC Riverside, California USA
