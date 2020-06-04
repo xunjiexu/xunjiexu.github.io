@@ -6,7 +6,6 @@ permalink: /travel/
 
 
 ## Conferences
-
  - 2019
 	- [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/), talk: The MSW potentials induced by ultralight mediators, KIAS, Korea. 
 	- SNEWS2.0, talk: Neutrino astronomy with supernova neutrinos, Sudbury,
@@ -33,7 +32,8 @@ Interactions, Münster, Germany.
 from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
-
+ - 2020
+	- Institute of High Energy Physics, Beijing, China, [slides](/files/ultra_light_Xu.pdf)
  - 2019
 	- UC Irvine, California USA
 	- UC Riverside, California USA
