@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.21)  4 JUN 2020 10:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.21)  4 JUN 2020 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\def\formula{\nu_\mu\rightarrow\nu_\tau}\input{formula.tex}
+**\def\formula{\nu}\input{formula.tex}
 (./formula.tex
 (/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2015/07/15 v1.2 Class to compile TeX sub-files stand
@@ -140,19 +140,17 @@ LaTeX Font Info:    ... okay on input line 8.
 Here is how much of TeX's memory you used:
  1348 strings out of 494847
  18485 string characters out of 6179080
- 68435 words of memory out of 5000000
+ 68429 words of memory out of 5000000
  4711 multiletter control sequences out of 15000+600000
  4094 words of font info for 16 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 35i,5n,56p,272b,162s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,5n,56p,249b,162s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on formula.pdf (1 page, 22781 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+Output written on formula.pdf (1 page, 8209 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
