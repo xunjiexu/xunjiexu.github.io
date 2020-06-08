@@ -1,8 +1,16 @@
 git clone https://github.com/xunjiexu/xunjiexu.github.io.git
 
 
+if "sudo bundle install" has been done, then no need to do it again,
+otherwise, use bundle install
+
+or
 instead of "bundle install", using
 bundle install --path vendor/bundle
+or 
+bundle install --path ~/.bundle/vendor/bundle
+
+
 
 bundle exec jekyll serve
 
