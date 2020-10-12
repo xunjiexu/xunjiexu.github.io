@@ -14,7 +14,6 @@ Now Overleaf supports the [git integration](https://www.overleaf.com/blog/the-gi
 The simplest solution:
 git clone https://git.overleaf.com/xxxx 
 in a local working folder.
-
 Here xxxx is the lengthy project ID on Overleaf, which usually looks like, e.g.,
 > 5e48a1234567490001a31759
 
