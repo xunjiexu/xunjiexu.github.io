@@ -16,10 +16,11 @@ git clone https://git.overleaf.com/xxxx
 in a local working folder.
 
 Here xxxx is the lengthy project ID on Overleaf, which usually looks like, e.g.,
-5e48a1234567490001a31759
-This can be obtained by checking the link of your Overleaf project. 
+> 5e48a1234567490001a31759
+
+This ID can be obtained by checking the link of your Overleaf project. 
 For example, if the link is 
-https://www.overleaf.com/project/5e48a1234567490001a31759 
+> https://www.overleaf.com/project/5e48a1234567490001a31759 
 then xxxx should be the part after "www.overleaf.com/project/".
 
 ## If you're not familiar with git ...
