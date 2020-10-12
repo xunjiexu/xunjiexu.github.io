@@ -27,5 +27,5 @@ then xxxx should be the part after "www.overleaf.com/project/".
 ## If you're not familiar with git ...
 There are many tutorials which can be found by google. 
 But you don't need to go through a complete tutorial. 
-Knowing "git clone", "git pull", "git push", "git commit", "git add", "git status" should be enough to for basic use of git with Overleaf.
+Knowing "git clone", "git pull", "git push", "git commit", "git add", "git status" should be enough for basic use of git with Overleaf.
 
