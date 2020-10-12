@@ -11,7 +11,7 @@ So I need an offline approach!
 ## Git an Overleaf project
 Now Overleaf supports the [git integration](https://www.overleaf.com/blog/the-git-bridge-in-overleaf-v2-is-here)!
 
-The simplest solutions:
+The simplest solution:
 git clone https://git.overleaf.com/xxxx 
 in a local working folder.
 
