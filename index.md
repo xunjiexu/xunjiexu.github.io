@@ -18,7 +18,7 @@ Xunjie XU (许勋杰) is a theoretical particle physicist currently working at [
 cosmology, Neutrino-DM connection, Neutrino oscillation, Sterile neutrinos,
 Flavor symmetry
  - Gravity 
-	- Inflation, Gravitational wave,
+	- Inflation, Gravitational wave, Long-range forces
  - BSM models
 	- Grand Unified Theory, Left-Right symmetry, 2HDM
 
