@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Xunjie XU
 # email: <img src="/image/email.png" alt="email" width="200">
-description: xunjie@mpi-hd.mpg.de
+description: 许勋杰
 #x_x = X_Xu = Xun-Jie Xu
 #at the Max-Planck-Institut für Kernphysik, Heidelberg, Germany.
 baseurl: "" 
