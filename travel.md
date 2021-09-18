@@ -37,12 +37,12 @@ from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
  - 2021
-	- (online) University of Wrocław, Poland. Title: Dark forces from right-handed neutrinos. 
+	 - (online) University of Wrocław, Poland. Title: Dark forces from right-handed neutrinos. 
  - 2020
-	- (online) Nankai University, China. Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos. 
- 	- (online) Chongqing University, China. Title: New physics in neutrinoless double beta decay. 
- 	- (online) Université Libre de Bruxelles, Belgum. Title: Wolfenstein, Yukawa, and Coulomb Potentials — Neutrino oscillation in matter with heavy, light, and ultralight mediators.
-	- (online) Institute of High Energy Physics, Beijing, China, [(pdf available here)](/files/ultra_light_Xu.pdf)
+	 - (online) Nankai University, China. Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos. 
+ 	 - (online) Chongqing University, China. Title: New physics in neutrinoless double beta decay. 
+	 - (online) Université Libre de Bruxelles, Belgum. Title: Wolfenstein, Yukawa, and Coulomb Potentials — Neutrino oscillation in matter with heavy, light, and ultralight mediators.
+	 - (online) Institute of High Energy Physics, Beijing, China, [(pdf available here)](/files/ultra_light_Xu.pdf)
  - 2019
 	- UC Irvine, California USA
 	- UC Riverside, California USA
