@@ -36,12 +36,11 @@ Interactions, Münster, Germany.
 from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
-12. 202012. 2020 Nankai University, China.(online talk) Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos. 10. 2020 Université Libre de Bruxelles, Belgum. (online talk) Title: Wolfenstein, Yukawa, and Coulomb Potentials — Neutrino oscillation in matter with heavy, light, and ultralight mediators.
-13. 
  - 2020
-	- (online) University of Wrocław, Poland
+	- (online) University of Wrocław, Poland. Title: Dark forces from right-handed neutrinos. 
 	- (online) Nankai University, China. Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos. 
  	- (online) Chongqing University, China. Title: New physics in neutrinoless double beta decay. 
+ 	- (online) Université Libre de Bruxelles, Belgum. Title: Wolfenstein, Yukawa, and Coulomb Potentials — Neutrino oscillation in matter with heavy, light, and ultralight mediators.
 	- (online) [pdf here](/files/ultra_light_Xu.pdf) Institute of High Energy Physics, Beijing, China, 
  - 2019
 	- UC Irvine, California USA
