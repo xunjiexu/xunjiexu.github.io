@@ -10,7 +10,7 @@ layout: home
 </p>
 
 
-Xunjie XU (许勋杰, [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1)) is currently a postdoctoral researcher working on theoretical particle physics. 
+Xunjie XU (许勋杰) is a theoretical particle physicist currently working at [IHEP](http://english.ihep.cas.cn/), Beijing, China. Before joining IHEP, he was a postdoctoral researcher at ULB, Brussels(2020-2021) and MPIK, Heidelberg  (2016-2020). His research covers neutrinos, BSM physics, and most recently, cosmology. For further details, see the Inspire link: [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1).
 
 ## Research Interests
  - Neutrinos
@@ -18,12 +18,11 @@ Xunjie XU (许勋杰, [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.
 cosmology, Neutrino-DM connection, Neutrino oscillation, Sterile neutrinos,
 Flavor symmetry
  - Gravity 
-	- Inflation, Gravitational wave, QFT in curved spacetime
+	- Inflation, Gravitational wave,
  - BSM models
 	- Grand Unified Theory, Left-Right symmetry, 2HDM
 
 ## Links
 
- - [Division Particle & Astroparticle Physics, MPIK](https://www.mpi-hd.mpg.de/lin/group_members.en.html)
  - [MANITOP](https://www.mpi-hd.mpg.de/manitop/)
  - [scimeter.org](https://scimeter.org/clouds/author/?authors=0000-0003-3181-1386&author_disambiguate=Xun-Jie+Xu)
