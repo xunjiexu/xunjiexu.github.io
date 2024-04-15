@@ -36,7 +36,15 @@ Interactions, Münster, Germany.
 from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
+ - 2024
+   	 - ... (to add)
+   	 - Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
+ - 2023  
+   	 - ... (to add)
+ - 2022
+   	 - ... (to add)
  - 2021
+   	 - ... (to add)
 	 - (online) University of Wrocław, Poland. Title: Dark forces from right-handed neutrinos. 
  - 2020
 	 - (online) Nankai University, China. Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos.
