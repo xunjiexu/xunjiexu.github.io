@@ -3,12 +3,28 @@ layout: page
 title: Talks&Events
 permalink: /travel/
 ---
+## Recent activities (2022-)
 
+ - 2024
+	- Visiting University of Freiburg, Germany
+	- Seminar at Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
+	- Visiting University of Münster, Germany
+ - 2023  
+	- Seminar at HIAS, Hangzhou, China [(pdf available here)](/files/main-dilution-resistant.pdf)
+	- (Online) Seminar at University of Freiburg
+ - 2022
+	- Seminar at Shandong University (qingdao campus), China
+	- Seminar at Peking University, China
+	- Seminar at Tsinghua University, China
+	- (Online) Seminar at University of Freiburg, Germany
+	- (Online) Seminar at Sydney-CPPC, Australia
 
-## Conferences
+## Conferences (2015-2021)
+ - 2021
+	- Symposium on neutrinoless double beta decay in Chongqing, China (online talk): Neutrino colliders.
  - 2020 
-	 - EOS be.h Winter Solstice Meeting (online talk): Dark forces from right-handed neutrinos. 
-	 - Belgian Gravitational Wave Meeting (online talk): The νR-philic scalar: its loop-induced interactions and Yukawa forces in LIGO observations.
+	- EOS be.h Winter Solstice Meeting (online talk): Dark forces from right-handed neutrinos. 
+	- Belgian Gravitational Wave Meeting (online talk): The νR-philic scalar: its loop-induced interactions and Yukawa forces in LIGO observations.
  - 2019
 	- [Gravity, Information and Fundamental Symmetries](https://www.mpi-hd.mpg.de/lin/events/ra-workshop/),  Garching, Germany.
 	- [NEPLES2019](http://events.kias.re.kr/h/NEPLES2019/), talk: The MSW potentials induced by ultralight mediators, KIAS, Korea. 
@@ -35,24 +51,15 @@ Interactions, Münster, Germany.
 	- DPG 2015, talk: Constraining Astrophysical Neutrino Flavor Composition
 from Leptonic Unitarity, Wuppertal, Germany.
 
-## Seminars
- - 2024
-   	 - University of Freiburg, Freiburg, Germany
-   	 - Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
-   	 - The University of Münster, Münster, Germany
- - 2023  
-   	 - HIAS, Hangzhou, China
-   	 - ... (to add)
- - 2022
-   	 - ... (to add)
+## Seminars (2015-2021)
  - 2021
-   	 - ... (to add)
-	 - (online) University of Wrocław, Poland. Title: Dark forces from right-handed neutrinos. 
+	- CCAST, Beijing, China. Title: Interactions of neutrinos with dark matter.
+	- (online) University of Wrocław, Poland. Title: Dark forces from right-handed neutrinos. 
  - 2020
-	 - (online) Nankai University, China. Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos.
-	 - (online) Chongqing University, China. Title: New physics in neutrinoless double beta decay. 
-	 - (online) Université Libre de Bruxelles, Belgum. Title: Wolfenstein, Yukawa, and Coulomb Potentials — Neutrino oscillation in matter with heavy, light, and ultralight mediators.
-	 - (online) Institute of High Energy Physics, Beijing, China, [(pdf available here)](/files/ultra_light_Xu.pdf)
+	- (online) Nankai University, China. Title: New long-range forces in LIGO? How weak would you expect them to be?—An answer from right-handed neutrinos.
+	- (online) Chongqing University, China. Title: New physics in neutrinoless double beta decay. 
+	- (online) Université Libre de Bruxelles, Belgum. Title: Wolfenstein, Yukawa, and Coulomb Potentials — Neutrino oscillation in matter with heavy, light, and ultralight mediators.
+	- (online) Institute of High Energy Physics, Beijing, China, [(pdf available here)](/files/ultra_light_Xu.pdf)
  - 2019
 	- UC Irvine, California USA
 	- UC Riverside, California USA
