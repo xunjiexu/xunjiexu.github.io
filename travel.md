@@ -56,7 +56,7 @@ presence of general interactions, UC Irvine, USA.
 	- DPG 2017, talk: Coherent Neutrino-Nucleus Scattering and new Neutrino
 Interactions, Münster, Germany.
  - 2015
-	- WIN 2015, local attendee, Heidelberg, Germany.
+	- WIN 2015, Heidelberg, Germany.
 	- DPG 2015, talk: Constraining Astrophysical Neutrino Flavor Composition
 from Leptonic Unitarity, Wuppertal, Germany.
 
