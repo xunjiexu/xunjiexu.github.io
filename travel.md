@@ -37,9 +37,11 @@ from Leptonic Unitarity, Wuppertal, Germany.
 
 ## Seminars
  - 2024
-   	 - ... (to add)
+   	 - University of Freiburg, Freiburg, Germany
    	 - Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
+   	 - The University of Münster, Münster, Germany
  - 2023  
+   	 - HIAS, Hangzhou, China
    	 - ... (to add)
  - 2022
    	 - ... (to add)
