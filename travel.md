@@ -16,7 +16,7 @@ permalink: /travel/
 	- Talk at [CERN Neutrino Platform Pheno Week](https://indico.cern.ch/event/1210319/)
 	- Talk at [57th Rencontres de Moriond/EW](https://moriond.in2p3.fr/2023/EW/)
 	- Talk at the 2nd 0vbb symposium in Zhuhai, China
- 	- Tunight talk at Tsinghua University TUNA Association
+	- Tunight talk at Tsinghua University TUNA Association
 	- Talk at JUNO summer school, Guangdong, China
 	- Talk at CCNU, Wuhan, China
 	- Talk at HIAS, Hangzhou, China [(pdf available here)](/files/main-dilution-resistant.pdf)
