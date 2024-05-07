@@ -7,13 +7,14 @@ permalink: /travel/
 
  - 2024
 	- Visiting University of Freiburg, Germany
- 	- [NEWFO2024](https://indico.cern.ch/event/1339497/) workshop
+	- [NEWFO2024](https://indico.cern.ch/event/1339497/) workshop
 	- Seminar at Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
 	- Visiting University of Münster, Germany
 	- International Symposium on Neutrino Physics and Beyond [(NPB 2024)](https://indico.ihep.ac.cn/event/20514/)
+	- Talk at [solar neutrino workshop](https://indico.ihep.ac.cn/event/21371/) in Sun Yat-sen University
  - 2023
 	- Talk at [CERN Neutrino Platform Pheno Week](https://indico.cern.ch/event/1210319/)
- - 	- Talk at [57th Rencontres de Moriond/EW](https://moriond.in2p3.fr/2023/EW/)
+	- Talk at [57th Rencontres de Moriond/EW](https://moriond.in2p3.fr/2023/EW/)
 	- Talk at the 2nd 0vbb symposium in Zhuhai, China
  	- Tunight talk at Tsinghua University TUNA Association
 	- Talk at JUNO summer school, Guangdong, China
