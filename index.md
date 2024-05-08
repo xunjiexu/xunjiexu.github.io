@@ -10,7 +10,7 @@ layout: home
 </p>
 
 
-Xunjie XU (许勋杰) is a theoretical particle physicist currently working at [IHEP](http://english.ihep.cas.cn/), Beijing, China. Before joining IHEP, he was a postdoctoral researcher at ULB, Brussels from 2020 to 2021, and [MPIK, Heidelberg](https://www.mpi-hd.mpg.de/manitop/)  from 2016 to 2020. His research covers neutrino physics, BSM physics, and most recently, cosmology. For further details, see the Inspire link: [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1).
+Xunjie XU (许勋杰) is a theoretical particle physicist currently working at [IHEP](http://english.ihep.cas.cn/), Beijing, China. Before joining IHEP, he was a postdoctoral researcher at [ULB](https://physth.ulb.be/people_XXu.html), Brussels from 2020 to 2021, and [MPIK](https://www.mpi-hd.mpg.de/manitop/), Heidelberg from 2016 to 2020. His research covers neutrino physics, BSM physics, and most recently, cosmology. For further details, see the Inspire link: [Xun-Jie XU](http://inspirehep.net/author/profile/Xun.Jie.Xu.1).
 
 
 
