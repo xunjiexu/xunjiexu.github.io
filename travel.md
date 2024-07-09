@@ -6,12 +6,18 @@ permalink: /travel/
 ## Recent activities (2022-)
 
  - 2024
-	- Visiting University of Freiburg, Germany
-	- [NEWFO2024](https://indico.cern.ch/event/1339497/) workshop
-	- Seminar at Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
-	- Visiting University of Münster, Germany
-	- International Symposium on Neutrino Physics and Beyond [(NPB 2024)](https://indico.ihep.ac.cn/event/20514/)
-	- Talk at [solar neutrino workshop](https://indico.ihep.ac.cn/event/21371/) in Sun Yat-sen University
+	- August, Talk at [中国物理学会高能物理分会第十四届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/21331/), Qingdao, China
+	- August, Talk at [YGA 2024](https://yga2024.scimeeting.cn/en/web/index/21674) (粤港澳大湾区物理学会年会), Macao， China
+	- June, Seminar at ICTP-AP, Beijing, China
+	- June, Seminar at Southeast University, Nanjing, China
+	- June, Lectures for a BSM course in University of Science and Technology of China (USTC), Hefei, China
+  	- June, Talk at [Physics Annual Symposium 2024](https://www.cityu.edu.hk/phy/index.php/node/3441), City University of Hong Kong
+	- April, Visiting University of Freiburg, Germany
+	- April, [NEWFO2024](https://indico.cern.ch/event/1339497/) workshop, Germany
+	- April, Seminar at Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
+	- April, Visiting University of Münster, Germany
+	- February, International Symposium on Neutrino Physics and Beyond [(NPB 2024)](https://indico.ihep.ac.cn/event/20514/), Hong Kong, China
+	- January, Talk at [solar neutrino workshop](https://indico.ihep.ac.cn/event/21371/) in Sun Yat-sen University, China
  - 2023
 	- Talk at [CERN Neutrino Platform Pheno Week](https://indico.cern.ch/event/1210319/)
 	- Talk at [57th Rencontres de Moriond/EW](https://moriond.in2p3.fr/2023/EW/)
