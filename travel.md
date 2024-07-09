@@ -11,7 +11,7 @@ permalink: /travel/
 	- June, Seminar at ICTP-AP, Beijing, China
 	- June, Seminar at Southeast University, Nanjing, China
 	- June, Lectures for a BSM course in University of Science and Technology of China (USTC), Hefei, China
-  	- June, Talk at [Physics Annual Symposium 2024](https://www.cityu.edu.hk/phy/index.php/node/3441), City University of Hong Kong
+	- June, Talk at [Physics Annual Symposium 2024](https://www.cityu.edu.hk/phy/index.php/node/3441), City University of Hong Kong
 	- April, Visiting University of Freiburg, Germany
 	- April, [NEWFO2024](https://indico.cern.ch/event/1339497/) workshop, Germany
 	- April, Seminar at Max-Planck-Institut für Kernphysik, Heidelberg, Germany [(pdf available here)](/files/nu-forces-talk.pdf)
