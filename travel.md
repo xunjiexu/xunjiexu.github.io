@@ -6,7 +6,9 @@ permalink: /travel/
 ## Recent activities (2022-)
 
  - 2024
-	- August, Talk at [中国物理学会高能物理分会第十四届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/21331/), Qingdao, China
+	- November, Seminar at University of Science and Technology of China (USTC), Hefei, China
+   	- November, Seminar at Nankai University, Tianjin, China
+   	- August, Talk at [中国物理学会高能物理分会第十四届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/21331/), Qingdao, China
 	- August, Talk at [YGA 2024](https://yga2024.scimeeting.cn/en/web/index/21674) (粤港澳大湾区物理学会年会), Macao， China
 	- June, Seminar at ICTP-AP, Beijing, China
 	- June, Seminar at Southeast University, Nanjing, China
